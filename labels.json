@@ -120,8 +120,8 @@
       "rotation": "0"
     },
     {
-      "lat": 44,
-      "lng": 30,
+      "lat": 35,
+      "lng": 28,
       "size": 2.2,
       "dotradius": 0,
       "color": "#202124",
@@ -149,8 +149,8 @@
   ],
   "cities": [
     {
-      "lat": 27,
-      "lng": 46,
+      "lat": 30,
+      "lng": 40,
       "size": 1.5,
       "dotradius": 0.5,
       "color": "#D8D0C1",
