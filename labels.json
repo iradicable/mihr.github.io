@@ -367,8 +367,8 @@
       "rotation": "-20"
     },
     {
-      "lat": 40,
-      "lng": 80,
+      "lat": 41,
+      "lng": 78,
       "size": 1.5,
       "dotradius": 0,
       "color": "#202124",
@@ -376,8 +376,8 @@
       "rotation": "-45"
     },
      {
-      "lat": 64,
-      "lng": 80,
+      "lat": 74,
+      "lng": 65,
       "size": 1.5,
       "dotradius": 0,
       "color": "#202124",
