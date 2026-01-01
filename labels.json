@@ -218,7 +218,8 @@
       "dotradius": 0.5,
       "color": "#D8D0C1",
       "text": "Sillenor",
-      "rotation": "0"
+      "rotation": "0",
+      "outline": "1"
     },
     {
       "lat": 60,
