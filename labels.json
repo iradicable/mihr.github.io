@@ -3,8 +3,8 @@
     {
       "lat": 0,
       "lng": 0,
-      "size": 5,
-      "dotradius": 5,
+      "size": 2,
+      "dotradius": 2,
       "color": "#000000",
       "text": "0,0",
       "rotation": 0
