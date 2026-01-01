@@ -84,7 +84,7 @@
       "rotation": "0"
     },
     {
-      "lat": -34,
+      "lat": -38,
       "lng": -24,
       "size": 2.2,
       "dotradius": 0,
@@ -113,7 +113,7 @@
     {
       "lat": 40,
       "lng": -65,
-      "size": 1.7,
+      "size": 1.9,
       "dotradius": 0,
       "color": "#202124",
       "text": "various countries",
@@ -158,9 +158,9 @@
   ],
   "cities": [
     {
-      "lat": 28,
-      "lng": 45.5,
-      "size": 1.5,
+      "lat": 30,
+      "lng": 40,
+      "size": 1.7,
       "dotradius": 0.5,
       "color": "#D8D0C1",
       "text": "Koslaborg",
@@ -214,7 +214,7 @@
     {
       "lat": 36,
       "lng": -105,
-      "size": 1.5,
+      "size": 1.7,
       "dotradius": 0.5,
       "color": "#D8D0C1",
       "text": "Sillenor",
@@ -223,7 +223,7 @@
     {
       "lat": 60,
       "lng": -78,
-      "size": 1.5,
+      "size": 1.7,
       "dotradius": 0.5,
       "color": "#D8D0C1",
       "text": "Grungarom",
@@ -241,7 +241,7 @@
     {
       "lat": 12,
       "lng": 94,
-      "size": 1.5,
+      "size": 1.7,
       "dotradius": 0.5,
       "color": "#D8D0C1",
       "text": "Tvelsk",
