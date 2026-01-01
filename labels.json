@@ -147,12 +147,12 @@
       "rotation": "0"
     },
         {
-      "lat": -19,
-      "lng": -87,
+      "lat": -18,
+      "lng": -88,
       "size": 2.2,
       "dotradius": 0,
       "color": "#202124",
-      "text": "g2",
+      "text": "G2",
       "rotation": "0"
     }
   ],
@@ -218,6 +218,15 @@
       "dotradius": 0.5,
       "color": "#D8D0C1",
       "text": "Sillenor",
+      "rotation": "0"
+    },
+    {
+      "lat": 60,
+      "lng": -78,
+      "size": 1.5,
+      "dotradius": 0.5,
+      "color": "#D8D0C1",
+      "text": "Grungarom",
       "rotation": "0"
     },
     {
