@@ -150,7 +150,7 @@
   "cities": [
     {
       "lat": 28,
-      "lng": 44.5,
+      "lng": 45.5,
       "size": 1.5,
       "dotradius": 0.5,
       "color": "#D8D0C1",
