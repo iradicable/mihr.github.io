@@ -46,7 +46,7 @@
       "rotation": "0"
     },
     {
-      "lat": 30,
+      "lat": 32,
       "lng": 135,
       "size": 4,
       "dotradius": 0,
@@ -305,7 +305,7 @@
   "geography": [
     {
       "lat": 5,
-      "lng": -175,
+      "lng": -190,
       "size": 1.5,
       "dotradius": 0,
       "color": "#E9ECF5",
@@ -376,13 +376,13 @@
       "rotation": "-45"
     },
      {
-      "lat": 76,
+      "lat": 77,
       "lng": 61,
       "size": 1.5,
       "dotradius": 0,
       "color": "#202124",
       "text": "The Watchers",
-      "rotation": "15"
+      "rotation": "0"
     },
     {
       "lat": 85,
