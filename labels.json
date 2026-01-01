@@ -376,13 +376,13 @@
       "rotation": "-45"
     },
      {
-      "lat": 74,
-      "lng": 65,
+      "lat": 76,
+      "lng": 61,
       "size": 1.5,
       "dotradius": 0,
       "color": "#202124",
       "text": "The Watchers",
-      "rotation": "0"
+      "rotation": "15"
     },
     {
       "lat": 85,
