@@ -89,7 +89,7 @@
       "color": "#202124",
       "text": "The Wastes",
       "rotation": "0"
-    }
+    },
   ],
   "nations": [
     {
@@ -145,7 +145,7 @@
       "color": "#202124",
       "text": "Sedulga Empire",
       "rotation": "0"
-    }
+    },
         {
       "lat": -19,
       "lng": -87,
@@ -154,7 +154,7 @@
       "color": "#202124",
       "text": "g2",
       "rotation": "0"
-    },
+    }
   ],
   "cities": [
     {
