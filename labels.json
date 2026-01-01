@@ -10,13 +10,13 @@
         "rotation": 0
       }
          {
-        lat: 39,
-        lng: -79,
-        size: 5,
-        dotradius: 0,
-        color: '#000000',
-        text: 'Ubera',
-        rotation: '0'
+        "lat": 39,
+        "lng": -79,
+        "size": 5,
+        "dotradius": 0,
+        "color": "#000000",
+        "text": 'Ubera',
+       "rotation": '0'
       },
       {
         lat: -30,
