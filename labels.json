@@ -332,12 +332,12 @@
     },
     {
       "lat": -30,
-      "lng": 110,
+      "lng": 125,
       "size": 1.5,
       "dotradius": 0,
       "color": "#E9ECF5",
-      "text": "[sea]",
-      "rotation": "0"
+      "text": "[ocean i guess]",
+      "rotation": "-30"
     },
     {
       "lat": -12.5,
@@ -349,12 +349,21 @@
       "rotation": "0"
     },
     {
-      "lat": -45,
-      "lng": 5,
+      "lat": -42,
+      "lng": 8,
       "size": 1.5,
       "dotradius": 0,
       "color": "#E9ECF5",
       "text": "[water]",
+      "rotation": "0"
+    },
+    {
+      "lat": 66,
+      "lng": 11,
+      "size": 1.5,
+      "dotradius": 0,
+      "color": "#E9ECF5",
+      "text": "[names for smaller waters as needed]",
       "rotation": "0"
     },
     {
@@ -373,7 +382,7 @@
       "dotradius": 0,
       "color": "#E9ECF5",
       "text": "Pelanoch Ocean",
-      "rotation": "0"
+      "rotation": "45"
     },
     {
       "lat": 64,
