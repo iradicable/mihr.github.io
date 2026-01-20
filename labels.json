@@ -174,11 +174,11 @@
       "rotation": "0"
     },
     {
-      "lat": 13,
-      "lng": -73.5,
-      "size": 1,
+      "lat": 15,
+      "lng": -67,
+      "size": 2,
       "dotradius": 0,
-      "color": "#D8D0C1",
+      "color": "#202124",
       "text": "Tarouse",
       "rotation": "0"
     }
