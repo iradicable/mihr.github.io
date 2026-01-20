@@ -93,7 +93,7 @@
       "rotation": "0"
     },
     {
-      "lat": -36,
+      "lat": -35,
       "lng": -24,
       "size": 2.2,
       "dotradius": 0,
@@ -156,8 +156,8 @@
       "rotation": "0"
     },
     {
-      "lat": 25,
-      "lng": 63,
+      "lat": 24,
+      "lng": 83,
       "size": 2.2,
       "dotradius": 0,
       "color": "#202124",
@@ -174,7 +174,7 @@
       "rotation": "0"
     },
     {
-      "lat": 16,
+      "lat": 15.5,
       "lng": -67,
       "size": 1.8,
       "dotradius": 0,
@@ -239,8 +239,8 @@
       "rotation": "0"
     },
     {
-      "lat": 36,
-      "lng": -105,
+      "lat": 35,
+      "lng": -111,
       "size": 1.7,
       "dotradius": 0.5,
       "color": "#D8D0C1",
@@ -430,8 +430,8 @@
       "rotation": "-13"
     },
     {
-      "lat": 41,
-      "lng": 78,
+      "lat": 41.5,
+      "lng": 77.5,
       "size": 1.5,
       "dotradius": 0,
       "color": "#202124",
