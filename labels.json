@@ -423,7 +423,7 @@
     {
       "lat": 64,
       "lng": -78,
-      "size": 1.5,
+      "size": 1.3,
       "dotradius": 0,
       "color": "#3A3531",
       "text": "Adamantine Peaks",
@@ -432,7 +432,7 @@
     {
       "lat": 40.5,
       "lng": 77.5,
-      "size": 1.5,
+      "size": 1.3,
       "dotradius": 0,
       "color": "#3A3531",
       "text": "Silverridge",
@@ -441,7 +441,7 @@
      {
       "lat": 77,
       "lng": 55,
-      "size": 1.5,
+      "size": 1.3,
       "dotradius": 0,
       "color": "#3A3531",
       "text": "The Watchers",
@@ -449,7 +449,7 @@
     },
     {
       "lat": 90,
-      "lng": 1.5,
+      "lng": 1.3,
       "size": 2,
       "dotradius": 0,
       "color": "#202124",
