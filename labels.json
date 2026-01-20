@@ -107,7 +107,7 @@
       "size": 2.2,
       "dotradius": 0,
       "color": "#202124",
-      "text": "gith nation",
+      "text": "Vri'r'alak",
       "rotation": "0"
     },
     {
@@ -171,6 +171,15 @@
       "dotradius": 0,
       "color": "#202124",
       "text": "G2",
+      "rotation": "0"
+    },
+    {
+      "lat": 8,
+      "lng": -73.5,
+      "size": 4.8,
+      "dotradius": 0.5,
+      "color": "#D8D0C1",
+      "text": "Tethys",
       "rotation": "0"
     }
   ],
@@ -298,7 +307,7 @@
       "size": 1,
       "dotradius": 0.2,
       "color": "#D8D0C1",
-      "text": "Tarouse",
+      "text": "Tarouse City",
       "rotation": "0"
     },
     {
