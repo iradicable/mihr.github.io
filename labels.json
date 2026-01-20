@@ -425,7 +425,7 @@
       "lng": -78,
       "size": 1.5,
       "dotradius": 0,
-      "color": "#202124",
+      "color": "#3A3531",
       "text": "Adamantine Peaks",
       "rotation": "-13"
     },
@@ -434,7 +434,7 @@
       "lng": 77.5,
       "size": 1.5,
       "dotradius": 0,
-      "color": "#202124",
+      "color": "#3A3531",
       "text": "Silverridge",
       "rotation": "-45"
     },
@@ -443,7 +443,7 @@
       "lng": 55,
       "size": 1.5,
       "dotradius": 0,
-      "color": "#202124",
+      "color": "#3A3531",
       "text": "The Watchers",
       "rotation": "0"
     },
