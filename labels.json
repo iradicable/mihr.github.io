@@ -421,7 +421,7 @@
       "rotation": "45"
     },
     {
-      "lat": 64,
+      "lat": 65,
       "lng": -78,
       "size": 1.3,
       "dotradius": 0,
@@ -440,7 +440,7 @@
     },
      {
       "lat": 77,
-      "lng": 55,
+      "lng": 54.6,
       "size": 1.3,
       "dotradius": 0,
       "color": "#3A3531",
