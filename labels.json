@@ -11,6 +11,7 @@
       "rotation": 0
     },
     {
+      "id": "0-180",
       "lat": 0,
       "lng": 180,
       "size": 2,
@@ -20,6 +21,7 @@
       "rotation": 0
     },
     {
+      "id": "oxrangi",
       "lat": -5,
       "lng": -30,
       "size": 5,
@@ -29,6 +31,7 @@
       "rotation": 0
     },
     {
+      "id": "ubera",
       "lat": 39,
       "lng": -79,
       "size": 5,
@@ -38,6 +41,7 @@
       "rotation": "0"
     },
     {
+      "id": "stuff",
       "lat": -30,
       "lng": -93,
       "size": 4,
@@ -47,6 +51,7 @@
       "rotation": "0"
     },
     {
+      "id": "aeretis",
       "lat": 35,
       "lng": 65,
       "size": 5,
@@ -56,6 +61,7 @@
       "rotation": "0"
     },
     {
+      "id": "kosor",
       "lat": 32,
       "lng": 135,
       "size": 4,
@@ -65,6 +71,7 @@
       "rotation": "0"
     },
     {
+      "id": "xel-hun",
       "lat": -37,
       "lng": 163,
       "size": 4.5,
@@ -76,6 +83,7 @@
   ],
   "nations": [
     {
+      "id": "sanctuary",
       "lat": 46.5,
       "lng": 14.7,
       "size": 1,
@@ -85,6 +93,7 @@
       "rotation": "0"
     },
     {
+      "id": "empire-region",
       "lat": 57.5,
       "lng": 186.5,
       "size": 1.8,
@@ -94,6 +103,7 @@
       "rotation": "0"
     },
     {
+      "id": "island-nation",
       "lat": -35,
       "lng": -24,
       "size": 2.2,
@@ -103,6 +113,7 @@
       "rotation": "0"
     },
     {
+      "id": "vri-r-alak",
       "lat": -30,
       "lng": 50,
       "size": 2.2,
@@ -112,6 +123,7 @@
       "rotation": "0"
     },
     {
+      "id": "kingdom-of-ubera",
       "lat": 44,
       "lng": -95,
       "size": 2.2,
@@ -121,6 +133,7 @@
       "rotation": "0"
     },
     {
+      "id": "various-countries",
       "lat": 50,
       "lng": -62,
       "size": 1.9,
@@ -130,6 +143,7 @@
       "rotation": "0"
     },
     {
+      "id": "frontier-federation",
       "lat": 39,
       "lng": 28,
       "size": 2.2,
@@ -139,6 +153,7 @@
       "rotation": "0"
     },
     {
+      "id": "chuasau",
       "lat": 7.5,
       "lng": -32,
       "size": 2.2,
@@ -148,6 +163,7 @@
       "rotation": "0"
     },
     {
+      "id": "other-oxrangi-country",
       "lat": -12.5,
       "lng": -5.5,
       "size": 2.2,
@@ -157,6 +173,7 @@
       "rotation": "0"
     },
     {
+      "id": "sedulga-empire",
       "lat": 24,
       "lng": 83,
       "size": 2.2,
@@ -166,6 +183,7 @@
       "rotation": "0"
     },
     {
+      "id": "g2",
       "lat": -17.5,
       "lng": -87.5,
       "size": 2.2,
@@ -175,6 +193,7 @@
       "rotation": "0"
     },
     {
+      "id": "tarouse",
       "lat": 15.5,
       "lng": -67,
       "size": 1.8,
@@ -186,6 +205,7 @@
   ],
   "cities": [
     {
+      "id": "koslaborg",
       "lat": 30,
       "lng": 40,
       "size": 1.7,
@@ -195,6 +215,7 @@
       "rotation": "0"
     },
     {
+      "id": "elishny",
       "lat": 65,
       "lng": 40,
       "size": 1.5,
@@ -204,6 +225,7 @@
       "rotation": "0"
     },
     {
+      "id": "zudora",
       "lat": 12,
       "lng": -31.5,
       "size": 1,
@@ -213,6 +235,7 @@
       "rotation": "0"
     },
     {
+      "id": "aekebo",
       "lat": 0,
       "lng": -20.5,
       "size": 1.5,
@@ -222,6 +245,7 @@
       "rotation": "0"
     },
     {
+      "id": "truanard",
       "lat": 22,
       "lng": -105,
       "size": 1.5,
@@ -231,6 +255,7 @@
       "rotation": "0"
     },
     {
+      "id": "sistrilia",
       "lat": -3.5,
       "lng": 51,
       "size": 1.5,
@@ -240,6 +265,7 @@
       "rotation": "0"
     },
     {
+      "id": "sillenor",
       "lat": 35,
       "lng": -111,
       "size": 1.7,
@@ -249,6 +275,7 @@
       "rotation": "0"
     },
     {
+      "id": "grungarom",
       "lat": 72,
       "lng": 54,
       "size": 1.7,
@@ -258,6 +285,7 @@
       "rotation": "0"
     },
     {
+      "id": "tethys",
       "lat": 8,
       "lng": -78.5,
       "size": 1.3,
@@ -267,6 +295,7 @@
       "rotation": "0"
     },
     {
+      "id": "tvelsk",
       "lat": 12,
       "lng": 94,
       "size": 1.7,
@@ -276,6 +305,7 @@
       "rotation": "0"
     },
     {
+      "id": "hazelvale",
       "lat": 8,
       "lng": 45,
       "size": 1,
@@ -285,6 +315,7 @@
       "rotation": "0"
     },
     {
+      "id": "the-verge",
       "lat": 44,
       "lng": 15,
       "size": 1,
@@ -294,6 +325,7 @@
       "rotation": "0"
     },
     {
+      "id": "milogost",
       "lat": 28,
       "lng": 13.5,
       "size": 1,
@@ -303,6 +335,7 @@
       "rotation": "0"
     },
     {
+      "id": "tarouse-city",
       "lat": 11,
       "lng": -72,
       "size": 1,
@@ -312,6 +345,7 @@
       "rotation": "0"
     },
     {
+      "id": "ryereach",
       "lat": 18,
       "lng": -80,
       "size": 1,
@@ -321,6 +355,7 @@
       "rotation": "0"
     },
     {
+      "id": "crigpob",
       "lat": 46,
       "lng": 38,
       "size": 1,
@@ -332,6 +367,7 @@
   ],
   "geography": [
     {
+      "id": "the-expanse",
       "lat": 7,
       "lng": 208,
       "size": 1.5,
@@ -341,6 +377,7 @@
       "rotation": "0"
     },
     {
+      "id": "wild-waters",
       "lat": -88.5,
       "lng": 0,
       "size": 1.5,
@@ -350,6 +387,7 @@
       "rotation": "0"
     },
     {
+      "id": "coalescent-sea",
       "lat": -19,
       "lng": -63,
       "size": 1.5,
@@ -359,6 +397,7 @@
       "rotation": "0"
     },
     {
+      "id": "ocean-whatever",
       "lat": -25,
       "lng": 125,
       "size": 1.5,
@@ -368,6 +407,7 @@
       "rotation": "-35"
     },
     {
+      "id": "water-1",
       "lat": -12.5,
       "lng": 75,
       "size": 1.5,
@@ -377,6 +417,7 @@
       "rotation": "0"
     },
     {
+      "id": "water-2",
       "lat": -42,
       "lng": 8,
       "size": 1.5,
@@ -386,6 +427,7 @@
       "rotation": "0"
     },
     {
+      "id": "names-for-smaller-waters-as-needed",
       "lat": 69.5,
       "lng": 121.5,
       "size": 1.5,
@@ -395,6 +437,7 @@
       "rotation": "0"
     },
     {
+      "id": "gulf",
       "lat": 32,
       "lng": 118,
       "size": 1.5,
@@ -404,6 +447,7 @@
       "rotation": "0"
     },
     {
+      "id": "oxrangi-bay",
       "lat": 4,
       "lng": -16,
       "size": 1,
@@ -413,6 +457,7 @@
       "rotation": "0"
     },
     {
+      "id": "pelanoch-ocean",
       "lat": 20,
       "lng": 5,
       "size": 1.5,
@@ -422,6 +467,7 @@
       "rotation": "45"
     },
     {
+      "id": "adamantine-peaks",
       "lat": 65,
       "lng": -78,
       "size": 1.3,
@@ -431,6 +477,7 @@
       "rotation": "-13"
     },
     {
+      "id": "silverridge",
       "lat": 40.5,
       "lng": 78,
       "size": 1.3,
@@ -439,7 +486,8 @@
       "text": "Silverridge",
       "rotation": "-45"
     },
-     {
+    {
+      "id": "the-watchers",
       "lat": 77,
       "lng": 54.6,
       "size": 1.3,
@@ -449,6 +497,7 @@
       "rotation": "0"
     },
     {
+      "id": "the-wastes",
       "lat": 90,
       "lng": 1.3,
       "size": 2,
