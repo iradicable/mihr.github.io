@@ -1,6 +1,7 @@
 {
   "continents": [
     {
+      "id": "zerozero",
       "lat": 0,
       "lng": 0,
       "size": 2,
