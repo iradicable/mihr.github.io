@@ -8,8 +8,7 @@
       "dotradius": 1,
       "color": "#000000",
       "text": "0,0",
-      "rotation": 0,
-      "description": "This point represents the geographical center of the map. \n multi line support"
+      "rotation": 0
     },
     {
       "lat": 0,
