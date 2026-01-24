@@ -325,6 +325,16 @@
       "rotation": "0"
     },
     {
+      "id": "vudrater",
+      "lat": 34,
+      "lng": 110,
+      "size": 1,
+      "dotradius": 0.2,
+      "color": "#D8D0C1",
+      "text": "Vudrater",
+      "rotation": "0"
+    },
+    {
       "id": "milogost",
       "lat": 28,
       "lng": 13.5,
