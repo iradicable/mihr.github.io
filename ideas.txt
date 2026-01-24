@@ -1,7 +1,6 @@
 things to maybe add or change / ask james if it's possible :^)
 
 - toggling names instead of choosing one type at a time
-    - maybe legend, idk if it's necessarily needed if types can be toggled anyway
 - font borders
 - dot marker on the side instead of above text where needed
     - possible to change the dots to a custom shape, like crowns for capitals or something
@@ -9,7 +8,10 @@ things to maybe add or change / ask james if it's possible :^)
             the former, since simply copied alt code characters show up as ?s instead. looking at the character map the specific font used doesn't have 
             characters for anything fitting
 - adding and/or changing size of segments (tiles?), alternatively/in addition better wrapping
-- hidden way to toggle coordinate reference markers
 - clicking on certain place names opens a map of said place on the side, although that'd take a lot of drawing so huge maybe
     - additionally/alternatively some info, could be a kanka link but that obviously only works for people with wiki invites
 - ✅ click on globe for coordinates
+- positioning of globe & text box
+    - ideally maybe globe a bit to the left instead of center of the screen with toggles on the left and info on the right, whatever is doable
+- clicking on globe makes box disappear
+- it seems you gotta click on the dot instead of the text to toggle info boxes, like if you wanna select a continent especially you gotta click a good bit above the text
