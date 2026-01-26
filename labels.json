@@ -201,7 +201,17 @@
       "color": "#202124",
       "text": "Tarouse",
       "rotation": "0"
-    }
+    },
+    {
+      "id": "archipelago",
+      "lat": -6,
+      "lng": -5,
+      "size": 2.2,
+      "dotradius": 0,
+      "color": "#202124",
+      "text": "archipelago",
+      "rotation": "0"
+    },
   ],
   "cities": [
     {
